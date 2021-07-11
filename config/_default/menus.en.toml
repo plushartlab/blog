@@ -29,12 +29,6 @@
   url = "/contact/"
 
   [[footer]]
-  name = "Privacy Policy"
-  weight = 1
-  identifier = "privacy"
-  url = "/privacy/"
-
-  [[footer]]
   name = "All Rights Reserved"
   weight = 1
   # identifier = "imprint"
