@@ -9,7 +9,7 @@ Welcome to PlushArtLab!
 
 I’m Jessica, an embroiderer living in London, UK. I work with silk and cotton and my pieces are inspired by Science.
 
-Prior to opening  my shop in June, 2017, I completed several textile projects for a number of charities, which you can see in some of the blog posts. I would love it if you would join me on Instagram, Twitter, and Facebook to see what I'm up to!
+Prior to opening  my shop in June, 2017, I completed several textile projects for a number of charities, which you can see in some of the blog posts. I would love it if you would join me on Instagram, Twitter, and Facebook to see what I'm up to (icons on the left)!
 
 
 Here are some organisations I've done projects for:
