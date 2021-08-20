@@ -1,3 +1,5 @@
+{{ partial "cookie-notice.html" }}
+
 <!DOCTYPE html>
 <html
   lang="{{- site.Language.Lang -}}"
@@ -26,5 +28,9 @@
 
 
     {{- end -}}
+
+    {{ if hugo.IsProduction }}
+{{ partial "cookie-notice.html" }}
+{{ end }}
   </body>
 </html>
