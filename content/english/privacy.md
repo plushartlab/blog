@@ -1,5 +1,5 @@
 ---
-author: Jessica
+author: PlushArtLab
 title: Privacy Policy
 date: 2021-07-11
 description: Privacy policy
@@ -7,7 +7,7 @@ description: Privacy policy
 
 This Privacy Policy describes how and when I collect, use, and share information when you purchase an item from me, contact me, or otherwise use my services through Plushartlab.com, Etsy.com or its related sites and services.
 
-This Privacy Policy does not apply to the practices of third parties that I do not own or control, including Google, Amazon, Etsy or any third party services you access through them. You can reference their Privacy Policy to learn more about their privacy practices.
+This Privacy Policy does not apply to the practices of third parties that I do not own or control, including Google, Amazon, Etsy or any third party services you access through them. You can reference their Privacy Policy to learn more aboutß their privacy practices.
 
 1. Personal Information I Collect
 
@@ -51,16 +51,18 @@ I may store and process your information through third-party hosting services in
 
 If you reside in certain territories, including the EU, you have a number of rights in relation to your personal information. While some of these rights apply generally, certain rights apply only in certain limited cases. I describe these rights below:
 
-· Access. You may have the right to access and receive a copy of the personal information I hold about you by contacting me using the contact information below.
+* Access. You may have the right to access and receive a copy of the personal information I hold about you by contacting me using the contact information below.
 
-· Change, restrict, delete. You may also have rights to change, restrict my use of, or delete your personal information. Absent exceptional circumstances (like where I am required to store data for legal reasons) I will generally delete your personal information upon request.
+* Change, restrict, delete. You may also have rights to change, restrict my use of, or delete your personal information. Absent exceptional circumstances (like where I am required to store data for legal reasons) I will generally delete your personal information upon request.
 
-· Object. You can object to (i) my processing of some of your information based on my legitimate interests and (ii) receiving marketing messages from me after providing your express consent to receive them. In such cases, I will delete your personal information unless I have compelling and legitimate grounds to continue using that information or if it is needed for legal reasons.
+* Object. 
 
-· Complain. If you reside in the EU and wish to raise a concern about my use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local data protection authority.
+You can object to (i) my processing of some of your information based on my legitimate interests and (ii) receiving marketing messages from me after providing your express consent to receive them. In such cases, I will delete your personal information unless I have compelling and legitimate grounds to continue using that information or if it is needed for legal reasons.
 
-How to Contact Me
+* Complain. 
 
-For purposes of EU data protection law, I, J Ahn, am the data controller of your personal information. If you have any questions or concerns, you may contact me at plushartlab@gmail.com. Alternately, you may mail me at:
+If you reside in the EU and wish to raise a concern about my use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local data protection authority.
 
-PlushArtLab, London, SE12 8JN, UK 
+* How to Contact Me
+
+For purposes of EU data protection law, I, J Ahn, am the data controller of your personal information. If you have any questions or concerns, you may contact me at plushartlab@gmail.com.

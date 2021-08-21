@@ -1,10 +1,10 @@
-{{ partial "cookie-notice.html" }}
+
 
 <footer class="footer footer--{{ .footerClassModifier }}">
   <div class="by_farbox">
     <ul class="footer__list">
       <li class="footer__item">
-        &copy;
+        &copy;ß
         {{ if isset .context.Site.Params "copyright" }}
           {{ replace .context.Site.Params.copyright "{{ YEAR }}" (now.Format "2006") | markdownify }}
 

@@ -24,5 +24,5 @@ Here are some organisations I've done projects for:
 - The Sensory Project.
 
 
-You can find my shop at [Etsy](https://www.plushartlab.etsy.com).
+You can find my shop at [Etsy](https://www.etsy.com/shop/plushartlab/).
 

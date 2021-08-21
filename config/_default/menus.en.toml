@@ -14,7 +14,7 @@
   name = "Shop"
   weight = 300
   identifier = "shop"
-  url = "https://www.plushartlab.etsy.com"
+  url = "https://www.etsy.com/shop/plushartlab/"
 
   [[main]]
   name = "About"
