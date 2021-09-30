@@ -333,7 +333,7 @@ Comments can be disabled per page by setting `disableComments: true` on the page
 
 ### Google Analytics
 
-To use Google Analytics, a valid tracking code has to be added. If you don't want to load the code, then commend out the parameter.
+To use  Analytics, a valid tracking code has to be added. If you don't want to load the code, then commend out the parameter.
 
 ```toml
 googleAnalytics = "UA-123-45"

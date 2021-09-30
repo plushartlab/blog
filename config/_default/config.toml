@@ -13,6 +13,7 @@ profilePicture = "images/pal-teddybear.jpg"
 
 # Google Analytics
 googleAnalytics = "UA-68131029-1"
+gtagId = "287222552"
 
 # Syntax highlighting
 pygmentsUseClasses = true   
