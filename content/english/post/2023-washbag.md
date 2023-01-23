@@ -8,7 +8,7 @@ tags:
   - embroidery
 categories:
   - shop
-thumbnail: "images/Flyscientistgift.jpg"
+thumbnail: "images/washbag1.jpg"
 
 ---
 
@@ -18,4 +18,4 @@ The washbags are useful for holding cosmetics, toiletries or medications, even c
 
 It is made of premium 100% organic material, has a zippered closure, and is certified by Global Organic Textile Standard (GOTS). 
 
-![Wash Bag](images/sciencebag.mp4)
+{{< figure src="/images/washbag2.jpg" title="" >}}
